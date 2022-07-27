@@ -1,0 +1,6 @@
+input:in-range+label{
+    color: rgb(255, 255, 255);
+}
+input:out-of-range+label{
+    color: red;
+}
