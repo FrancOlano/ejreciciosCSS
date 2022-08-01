@@ -1,0 +1,36 @@
+main{
+    text-align: center;
+}
+
+.color{
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+p{  
+    position: relative;
+    display: inline-block;
+    top:-40px;
+}
+
+.rojo{
+    background-color: rgb(255,0,0);
+}
+
+.verde{
+    background-color: rgb(0,255,0);
+}
+
+.azul{
+    background-color: rgb(0,0,255);
+}
+.rosa{
+    background-color: rgb(255,0,255);
+}
+.celeste{
+    background-color: rgb(0,255,255);
+}
+.amarillo{
+    background-color: rgb(255,255,0);
+}
